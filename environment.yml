@@ -1,0 +1,13 @@
+name: nlp-env
+dependencies:
+- python=3.6
+- numpy>=1.8.0
+- pandas>=0.17.1
+- matplotlib
+- scipy>=0.16.1
+- scikit-learn>=0.14
+- ipython
+- six
+- future
+- pip
+- nltk
